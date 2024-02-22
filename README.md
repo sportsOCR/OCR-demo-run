@@ -1,5 +1,5 @@
 # OCR-demo-run
-
+Clovaai [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)를 참고하여 프로젝트 진행
 ## About The Project
 
 ## Project Files Description
