@@ -695,3 +695,41 @@ team1     	score     	team2     	score     	Pitcher        	base
 키움        	0         	두산        	0         	맥키니		2루
 키움        	0         	두산        	0         	맥키니		1루
 키움        	0         	두산        	0         	맥키니		베이스 없음
+----------------------------------------------------------------------
+team1     	score     	team2     	score     	Pitcher        	base
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+team1     	score     	team2     	score     	Pitcher        	base
+----------------------------------------------------------------------
+kia       	0         	lotte     	0         	이의리		베이스 없음
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	이의리		베이스 없음
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	한현희		베이스 없음
+kia       	0         	lotte     	0         	한현희		2루
+kia       	0         	lotte     	0         	한현희		3루
+kia       	0         	lotte     	0         	이의리		베이스 없음
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	이의리		3루
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	한현희		1루
+kia       	0         	lotte     	0         	한현희		2루
+kia       	0         	lotte     	0         	이의리		베이스 없음
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	이의리		1루 3루
+kia       	0         	lotte     	0         	이의리		베이스 없음
+kia       	0         	lotte     	0         	이의리		1루
+kia       	0         	lotte     	0         	이의리		1루 2루
+kia       	0         	lotte     	0         	이의리		2루 3루
+kia       	0         	lotte     	0         	한현희		베이스 없음
+kia       	0         	lotte     	0         	한현희		2루
+kia       	1         	lotte     	0         	김진욱		2루
+kia       	2         	lotte     	0         	김진욱		1루 2루
+kia       	2         	lotte     	0         	김도규		1루 2루
+kia       	4         	lotte     	0         	김도규		2루
+kia       	5         	lotte     	0         	김도규		1루
+kia       	5         	lotte     	0         	김도규		2루
+kia       	6         	lotte     	0         	임기영		베이스 없음
+kia       	6         	lotte     	0         	임기영		1루
+kia       	6         	lotte     	0         	임기영		1루 2루
+kia       	6         	lotte     	0         	김유신		베이스 없음

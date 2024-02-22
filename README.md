@@ -1,1 +1,0 @@
-# sports_image_OCR
